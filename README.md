@@ -11,7 +11,7 @@
 
 
 
-## Technology stack
+## Technologies used
 
 - [LangChain](https://python.langchain.com/api_reference/reference.html)
 - [Streamlit](https://docs.streamlit.io/)
