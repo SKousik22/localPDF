@@ -8,13 +8,7 @@
 
 ---
 
-### Tutorial Demo
 
-![Tutorial GIF](./imgs/tutorial.gif)
-
-<video src="./imgs/video.mp4" autoplay controls loop controlsList="nodownload" style="max-width: 100%; height: auto;">
-  Your browser does not support the video tag.
-</video>
 
 
 ## Technology stack
