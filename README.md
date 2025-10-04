@@ -1,4 +1,4 @@
-# **localPDF** : Chat with PDF Locally 🤖
+# **localPDF** : Chat with PDF Locally
 
 ## Overview
 
