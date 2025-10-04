@@ -43,8 +43,8 @@
 1. **Clone the Repository**:
    Clone the repository to your local machine:
    ```bash
-   git clone https://github.com/drisskhattabi6/Chat-with-PDF-Locally.git
-   cd Chat-with-PDF-Locally
+   git clone https://github.com/SKousik22/localPDF.git
+   cd localPDF
    ```
 
 2. **Install Dependencies**:
