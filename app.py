@@ -93,15 +93,12 @@ available_models = get_available_models()
 if not available_models:
     st.error("No installed Ollama models found. Please install one using `ollama pull <model_name>`.")
 
-image2 = Image.open('imgs/ChatPDF3.png')
-st.set_page_config(page_title="Chat with PDF", page_icon=image2)
 
 st.subheader("💬 Chat with PDF :")
 
 with st.sidebar:
     st.header("💬 Chat with your PDF Locally Using Ollama/OpenRouter")
-    image = Image.open('imgs/ChatPDF3.png')
-    st.image(image)
+    
 
     # File uploader for PDF
     pdf = st.file_uploader("Upload your PDF", type="pdf")
