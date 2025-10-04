@@ -180,5 +180,3 @@ API_KEY='your_api_key'
 - The chatbot depends on your performence of your labtop, so please be patient!
 
 ---
-
-Follow me on [LinkedIn](https://www.linkedin.com/in/idriss-khattabi-b3a266235/)
